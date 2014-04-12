@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMS", "CMS\CMS.csproj", "{EBD9AEB5-602E-47A9-9C83-05C378FBAAB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServicesAPI", "ServicesAPI\ServicesAPI.csproj", "{86CBD764-A371-46F0-80FA-F2C1718A1306}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBD9AEB5-602E-47A9-9C83-05C378FBAAB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD9AEB5-602E-47A9-9C83-05C378FBAAB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD9AEB5-602E-47A9-9C83-05C378FBAAB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD9AEB5-602E-47A9-9C83-05C378FBAAB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86CBD764-A371-46F0-80FA-F2C1718A1306}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86CBD764-A371-46F0-80FA-F2C1718A1306}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86CBD764-A371-46F0-80FA-F2C1718A1306}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86CBD764-A371-46F0-80FA-F2C1718A1306}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

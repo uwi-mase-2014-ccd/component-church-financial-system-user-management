@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ConnectionStrings>
+  <connectionstring type="mssql">
+    Server={0}; Database={1}; User Id={2}; Password={3}
+  </connectionstring>
+  <connectionstring type="mysql">
+    Server={0}; Database={1}; Uid={2}; Pwd={3};
+  </connectionstring>
+</ConnectionStrings>

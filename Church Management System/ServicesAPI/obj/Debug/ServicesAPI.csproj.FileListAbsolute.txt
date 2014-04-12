@@ -1,0 +1,6 @@
+c:\users\wm4908\documents\visual studio 2012\Projects\Church Management System\ServicesAPI\bin\ServicesAPI.dll
+c:\users\wm4908\documents\visual studio 2012\Projects\Church Management System\ServicesAPI\bin\ServicesAPI.pdb
+c:\users\wm4908\documents\visual studio 2012\Projects\Church Management System\ServicesAPI\bin\MySql.Data.dll
+c:\users\wm4908\documents\visual studio 2012\Projects\Church Management System\ServicesAPI\bin\MySql.Web.dll
+c:\users\wm4908\documents\visual studio 2012\Projects\Church Management System\ServicesAPI\obj\Debug\ServicesAPI.dll
+c:\users\wm4908\documents\visual studio 2012\Projects\Church Management System\ServicesAPI\obj\Debug\ServicesAPI.pdb
